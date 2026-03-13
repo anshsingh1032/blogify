@@ -335,6 +335,7 @@ Blogify
 ├── .env
 ├── package.json
 ├── LICENSE
+├── vercel.json
 └── README.md
 ```
 
