@@ -3,6 +3,19 @@
 A modern, full-stack blogging platform where users can create, edit, and manage blog posts with authentication, rich content editing, and media support. **Blogify** is designed as a scalable and developer-friendly blogging application built using modern web technologies.
 
 ---
+<div align="center">
+
+## ⚡ The Live Application
+
+<p>Experience the fluid animations, glassmorphism UI, and responsive grid layout directly in your browser.</p>
+
+<a href="https://blogify-ten-theta.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Experience_MegaBlog-FFFFFF?style=for-the-badge&logo=react&logoColor=black" alt="Experience MegaBlog" />
+</a>
+
+<br/>
+
+</div>
 
 # 📖 Project Overview
 
